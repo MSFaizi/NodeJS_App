@@ -1,6 +1,6 @@
 # Hello Kode2Cloud, Thanks You!
 
-Simple node.js app that servers "A Monk in Cloud"
+Simple node.js app that servers "Kode2Cloud"
 
 Great for testing simple deployments on Cloud
 
